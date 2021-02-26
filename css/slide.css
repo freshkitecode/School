@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-image{
+    width: 100%;
+    height: 1600px;
+    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.6)),url(https://images.unsplash.com/photo-1497864979123-ef3595423b92?ixid=MXwxMjA3fDB8MHxzZWFyY2h8ODN8fGJsdXIlMjBiYWNrZ3JvdW5kfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+}

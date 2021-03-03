@@ -4,11 +4,37 @@
     padding: 0;
     box-sizing: border-box;
 }
+<<<<<<< HEAD
 
 body,
 input,
 textarea{
     font-family: "Poppins", sans-serif;
+=======
+.contact{
+    position: relative;
+    min-height: 100vh;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color:pink;
+    background-size: cover;
+}
+.contact .content{
+    max-width: 800px;
+    text-align: center;
+}
+.contact .content h2{
+    font-size: 36px;
+    font-weight: 500;
+    color: #fff;
+}
+.contact .content p{
+    font-weight: 300;
+    color: #fff;
+>>>>>>> 997043ada69a0fceadce9295c04523cd2a009769
 }
 
 .container{
